@@ -1,0 +1,16 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Cristiano Ronaldo",
+      "idade": "20"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "nome": "Pizza",
+      "valor": "R$ 25,00"
+    }
+  ]
+}
